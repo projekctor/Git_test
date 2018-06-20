@@ -1,0 +1,16 @@
+npm init -y
+npm install --save react react-dom
+npm install --save-dev babel-cli
+npm install --save-dev babel-preset-env
+npm install --save-dev css-loader
+npm install --save-dev node-sass
+npm install --save-dev sass-loader
+npm install --save-dev style-loader
+npm install --save-dev webpack
+npm install --save-dev webpack-cli
+npm install --save-dev babel-plugin-transform-decorators-legacy
+npm install --save-dev babel-plugin-transform-class-properties
+npm i --save mobx mobx-react
+npm install --save-dev babel-plugin-transform-regenerator
+npm install babel-preset-es2017 --dev
+npm i -D babel-register
